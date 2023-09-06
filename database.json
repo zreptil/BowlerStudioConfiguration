@@ -12,6 +12,10 @@
       "https://github.com/madhephaestus/PhillipsRoundedHeadThreadFormingScrews.git",
       "1693974505917"
     ],
+    "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git": [
+      "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git",
+      "1693974549995"
+    ],
     "https://github.com/madhephaestus/brushlessMotorShaftCadGenerator.git": [
       "https://github.com/madhephaestus/brushlessMotorShaftCadGenerator.git",
       "1693974239853"
@@ -27,9 +31,9 @@
       "https://github.com/madhephaestus/PhillipsRoundedHeadThreadFormingScrews.git",
       "PhillipsRoundedHeadThreadFormingScrews.groovy"
     ],
-    "https://github.com/madhephaestus/brushlessMotorShaftCadGenerator.git:brushlessMotorShaft.groovy": [
-      "https://github.com/madhephaestus/brushlessMotorShaftCadGenerator.git",
-      "brushlessMotorShaft.groovy"
+    "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git:servoHorn.groovy": [
+      "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git",
+      "servoHorn.groovy"
     ],
     "https://github.com/zreptil/JavaCADModels.git:JavaCADModels.groovy": [
       "https://github.com/zreptil/JavaCADModels.git",
